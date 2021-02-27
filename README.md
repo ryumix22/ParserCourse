@@ -20,7 +20,13 @@ Course work, SoftwareConstruct
 
 Диаграмма:
 
+Context Diagram:
+
 ![unknown](https://user-images.githubusercontent.com/31857466/109388140-50657580-7916-11eb-82fd-5d2c2f88676f.png)
+
+Container Diagram:
+
+![unknown (1)](https://user-images.githubusercontent.com/31857466/109388492-7d1a8c80-7918-11eb-890d-a7e7df89a095.png)
 
 
 ParserUSBC.cpp - файл с функционалом программы
